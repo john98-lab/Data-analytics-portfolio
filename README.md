@@ -1,2 +1,2 @@
 # New-York-Taxi-Fare-Prediction-using-Ensembling-Techniques
-Data Analysis projects using SQL, PowerBI, Superset and Python
+The repository combines multiple ML techniques like; Ridge Regression, XGBoost, SVM and Random Forest to model New York's taxifare
